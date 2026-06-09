@@ -20,4 +20,4 @@ Reads voltage, current, and temperature readings from a CSV file and plots them 
  
 - `matplotlib` — everything else is standard library
 
-![Plot](Demo_plot.png)
+![Plot](Demo_plot.jpg)
